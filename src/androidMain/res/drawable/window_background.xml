@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <color android:color="#303333" />
+    </item>
+
+    <item
+            android:width="300dp"
+            android:height="300dp"
+            android:gravity="center"
+            android:drawable="@drawable/ic_launcher_foreground" />
+
+</layer-list>
